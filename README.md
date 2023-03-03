@@ -10,8 +10,7 @@ wordCATch is a game made for the FBLA Computer Game and Simulation Programming c
 
 # Built With
 
-wordCATch was built using the Godot Game Engine. \n
-Godot Engine --> https://godotengine.org/
+wordCATch was built using the Godot Game Engine, available here: https://godotengine.org/
 
 # Usage
 
