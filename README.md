@@ -6,6 +6,13 @@
 
 wordCATch is a game made for the FBLA Computer Game and Simulation Programming competition. Play as a cat going on an adventure to collect letters and make words! 
 
+wordCATch currently has:
+
+- Three levels
+- Charming pixel art
+- Extremely lovable cat
+- Celebratory messages for clearing each level
+- tLeaderboard that shows past scores
 
 
 # Built With
