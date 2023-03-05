@@ -12,7 +12,7 @@ wordCATch currently has:
 - Charming pixel art
 - Extremely lovable cat
 - Celebratory messages for clearing each level
-- tLeaderboard that shows past scores
+- Leaderboard that shows past scores
 
 
 # Built With
