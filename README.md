@@ -32,7 +32,7 @@ Portals will take you back to the spawn area. These portals can be found in area
 
 ## 5. Moving and Floating Platforms
 
-![Picture of the moving platform](https://user-images.githubusercontent.com/74633059/222982488-3b85c21a-efd1-44bb-ab44-9fb548b73a4d.png)
+![Picture of the moving platform](https://user-images.githubusercontent.com/74633059/222982488-3b85c21a-efd1-44bb-ab44-9fb548b73a4d.png = 200x60)
 
 These platforms will move, bringing the player with them if you stand on it. They help bring the player to hard-to-reach spots.
 
@@ -40,7 +40,7 @@ These platforms will move, bringing the player with them if you stand on it. The
 
 wordCATch was built using the Godot Game Engine, available here: https://godotengine.org/
 
-# Usage
+# Installing
 
 Downloading and running the .exe file will start the game. All buttons can be pressed with the arrow keys, and the player can be controlled with the arrow keys.
 
