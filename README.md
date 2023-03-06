@@ -57,5 +57,5 @@ wordCATch was built using the Godot Game Engine, available here: https://godoten
 
 # Installing
 
-Downloading and running the .exe file will start the game. All buttons can be pressed with the arrow keys, and the player can be controlled with the arrow keys.
+Downloading and running the .exe file will start the game. All buttons can be pressed with the mouse, and the player can be controlled with the arrow keys.
 
