@@ -22,9 +22,13 @@ wordCATch has several mechanics in gameplay.
 This is the main part of the game. Letters will be scattered across each level, and words with those letters can only be made once the letter is collected by the player and saved in the chest. Dying before getting to save in the chest will result in needing to collect the letter again.
 
 ## 2. Forming words
+
 The mechanic of forming words is vital to collecting points needed to beat levels. Pressing the "q" key on the keyboard opens the word game menu, featuring a selection of buttons for each  letter that has been collected and saved. Pressing each button will add that letter to the "word" that you are forming. Pressing the "submit word" button will input that word, and if it is a valid word, you will be awarded points for each letter in the word. Each level will have a different amount of points needed to clear the level. 
 
 ## 3. Switches and Bricks
+
+![brick_box](https://user-images.githubusercontent.com/74633059/223187453-b8be982a-b756-4591-b635-f99b92511b52.png) ![button](https://user-images.githubusercontent.com/74633059/223187888-c98151fa-12f6-40b3-a377-a9c11b1d00e1.png)
+
 Some parts of the level will be sectioned off with bricks. These sections can only be accessed by pressing a switch, usually in another part of the level. 
 
 ## 4. Portals
@@ -36,6 +40,7 @@ Portals will take you back to the spawn area. These portals can be found in area
 ## 5. Moving and Floating Platforms
 
 ![movingplatformcloud](https://user-images.githubusercontent.com/74633059/223003844-2044908e-8247-43dc-b744-1cd321304bed.png)
+
 
 These platforms will move, bringing the player with them if you stand on it. They help bring the player to hard-to-reach spots.
 
