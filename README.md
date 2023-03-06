@@ -27,7 +27,8 @@ The mechanic of forming words is vital to collecting points needed to beat level
 
 ## 3. Switches and Bricks
 
-![brick_box](https://user-images.githubusercontent.com/74633059/223187453-b8be982a-b756-4591-b635-f99b92511b52.png) ![button](https://user-images.githubusercontent.com/74633059/223187888-c98151fa-12f6-40b3-a377-a9c11b1d00e1.png)
+![button](https://user-images.githubusercontent.com/74633059/223188869-09f4fa38-49c0-4410-ae86-ac2836672d20.png) ![brick_box](https://user-images.githubusercontent.com/74633059/223189614-b335ea0c-4511-4f6a-8288-1c5db93ed99b.png)
+
 
 Some parts of the level will be sectioned off with bricks. These sections can only be accessed by pressing a switch, usually in another part of the level. 
 
@@ -40,6 +41,7 @@ Portals will take you back to the spawn area. These portals can be found in area
 ## 5. Moving and Floating Platforms
 
 ![movingplatformcloud](https://user-images.githubusercontent.com/74633059/223003844-2044908e-8247-43dc-b744-1cd321304bed.png)
+
 
 
 These platforms will move, bringing the player with them if you stand on it. They help bring the player to hard-to-reach spots.
