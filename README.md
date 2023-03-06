@@ -28,6 +28,9 @@ The mechanic of forming words is vital to collecting points needed to beat level
 Some parts of the level will be sectioned off with bricks. These sections can only be accessed by pressing a switch, usually in another part of the level. 
 
 ## 4. Portals
+
+![Green Portal Sprite Sheet (1)](https://user-images.githubusercontent.com/74633059/223186305-cd4eb0f9-8810-491b-bea6-d5591db0755d.png)
+
 Portals will take you back to the spawn area. These portals can be found in areas that are hard to access or hard to return from.
 
 ## 5. Moving and Floating Platforms
