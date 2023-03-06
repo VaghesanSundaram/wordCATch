@@ -45,7 +45,7 @@ Portals will take you back to the spawn area. These portals can be found in area
 
 ## 5. Moving and Floating Platforms
 
-![movingplatformcloud](https://user-images.githubusercontent.com/74633059/223003844-2044908e-8247-43dc-b744-1cd321304bed.png)
+![movingplatformcloud](https://user-images.githubusercontent.com/74633059/223199923-4665f72b-79df-48cb-9824-12ab9a42a90c.png)
 
 
 
