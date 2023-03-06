@@ -26,6 +26,8 @@ This is the main part of the game. Letters will be scattered across each level, 
 
 ## 2. Forming words
 
+![Destructible Objects Sprite Sheet (1)](https://user-images.githubusercontent.com/74633059/223198710-923056d6-8433-47ab-a28b-2dce7b0b38b1.png)
+
 The mechanic of forming words is vital to collecting points needed to beat levels. Pressing the "q" key on the keyboard opens the word game menu, featuring a selection of buttons for each  letter that has been collected and saved. Pressing each button will add that letter to the "word" that you are forming. Pressing the "submit word" button will input that word, and if it is a valid word, you will be awarded points for each letter in the word. Each level will have a different amount of points needed to clear the level. 
 
 ## 3. Switches and Bricks
