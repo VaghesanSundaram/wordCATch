@@ -33,7 +33,7 @@ Some parts of the level will be sectioned off with bricks. These sections can on
 
 ## 4. Portals
 
-![Green Portal Sprite Sheet (1)](https://user-images.githubusercontent.com/74633059/223186305-cd4eb0f9-8810-491b-bea6-d5591db0755d.png)
+![Green Portal Sprite Sheet (1)](https://user-images.githubusercontent.com/74633059/223188432-0e2d0b23-1333-4d6c-a10e-c20c7b8e4ff1.png)
 
 Portals will take you back to the spawn area. These portals can be found in areas that are hard to access or hard to return from.
 
