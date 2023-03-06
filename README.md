@@ -32,7 +32,7 @@ Portals will take you back to the spawn area. These portals can be found in area
 
 ## 5. Moving and Floating Platforms
 
-<img src="https://user-images.githubusercontent.com/74633059/222982488-3b85c21a-efd1-44bb-ab44-9fb548b73a4d.pn" height="200">
+![movingplatformcloud](https://user-images.githubusercontent.com/74633059/223003844-2044908e-8247-43dc-b744-1cd321304bed.png)
 
 These platforms will move, bringing the player with them if you stand on it. They help bring the player to hard-to-reach spots.
 
