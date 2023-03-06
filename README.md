@@ -19,6 +19,9 @@ wordCATch currently has:
 wordCATch has several mechanics in gameplay. 
 
 ## 1. Collecting and Saving letters
+
+![69@2x~ipad](https://user-images.githubusercontent.com/74633059/223195924-8f759d5f-ede8-457b-857b-e9eb293bed87.png)
+
 This is the main part of the game. Letters will be scattered across each level, and words with those letters can only be made once the letter is collected by the player and saved in the chest. Dying before getting to save in the chest will result in needing to collect the letter again.
 
 ## 2. Forming words
