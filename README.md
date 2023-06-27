@@ -27,17 +27,29 @@ Downloading and running the .exe file will start the game. All buttons can be pr
 Sprites and music were found on itch.io from the following creators:
 
 essssam
+
 Elthen
+
 agak-art-pururu
+
 0x72
+
 emhuo
+
 pixelfrog-assets
+
 arks
+
 cainos
+
 9EO
+
 penzilla
+
 ansimuz	
+
 tallbeard
+
 
 
 
