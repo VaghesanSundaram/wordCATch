@@ -1,8 +1,7 @@
 # About The Project
 
 
-![Screenshot of the opening menu]([https://user-images.githubusercontent.com/74633059/222609268-2c42362e-1568-4982-af53-ed3d0c0ce727.png])
-
+![image](https://github.com/VaghesanSundaram/wordCATch/assets/74633059/0b3edaf4-10a4-400d-ab7e-b0ce5178a4ae)
 
 wordCATch is a game made for the FBLA Computer Game and Simulation Programming competition. Play as a cat on a journey to help others make words! 
 
